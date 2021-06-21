@@ -1,5 +1,7 @@
 {
+  "name": "vite-vue-tailwind-starter",
   "version": "0.0.0",
+  "description": "a vite/vue 3 starter with tailwind css and eslint",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
